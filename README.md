@@ -63,6 +63,7 @@ cd realtime-doc-editor
 
 ```bash
 cd backend
+npm init
 npm install
 ```
 
@@ -70,7 +71,9 @@ npm install
 
 ```bash
 cd ../frontend
+npm init
 npm install
+npm start
 ```
 
 ---

@@ -73,7 +73,6 @@ npm install
 cd ../frontend
 npm init
 npm install
-npm start
 ```
 
 ---
